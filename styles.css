@@ -1,0 +1,33 @@
+#board_row_one {
+    background-color: rgb(131, 131, 192);
+    width: 100%;
+    text-align:center;
+    margin: auto;
+}
+
+#board_row_two {
+    background-color: rgb(131, 131, 192);
+    width: 100%;
+    text-align:center;
+    margin: auto;
+}
+
+#board_row_three {
+    background-color: rgb(131, 131, 192);
+    width: 100%;
+    text-align:center;
+    margin: auto;
+}
+
+button {
+    background-color: rgb(218, 32, 218);
+    border: 2px solid rgb(218, 32, 218);
+    border-radius: 5px;
+    font-size:15px;
+    margin:20px;
+    width: 50px;
+    height: 50px;
+    font-weight: bold;
+    
+}
+
